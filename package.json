@@ -9,6 +9,6 @@
     "@babel/preset-env": "^7.4.5"
   },
   "scripts": {
-    "conceitos": "babel ./Conceitos/classes.js -o ./bundle.js -w"
+    "conceitos": "babel ./Conceitos/consts.js -o ./bundle.js -w"
   }
 }
