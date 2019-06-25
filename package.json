@@ -10,6 +10,6 @@
     "@babel/preset-env": "^7.4.5"
   },
   "scripts": {
-    "conceitos": "babel ./Conceitos/objectShortSyntax.js -o ./bundle.js -w"
+    "conceitos": "babel ./Conceitos/exercicios/ex1.js -o ./bundle.js -w"
   }
 }

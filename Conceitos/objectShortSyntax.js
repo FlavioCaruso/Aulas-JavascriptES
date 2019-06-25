@@ -8,6 +8,8 @@ const nome = 'Flávio';
 
 const idade = 30;
 
+
+// Não precisa declarar dentro do objeto
 const usuario = {
     nome,
     idade,
