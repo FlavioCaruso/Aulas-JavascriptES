@@ -26,6 +26,4 @@ function teste(x){
 
 teste(10)
 
-//Não vai aparecer nada pois a variavel y esta apenas no escopo da função
-console.log(y)
 
