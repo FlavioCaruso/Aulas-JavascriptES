@@ -1,0 +1,15 @@
+//utilizar o export default e os exports normais no mesmo arquivo
+
+
+export default function soma(a, b){
+    return a + b;
+}
+
+export function sub(a, b){
+    return a - b;
+}
+
+
+export function mult(a, b){
+    return a * b;
+}
